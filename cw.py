@@ -18,7 +18,7 @@ Cards
 08	Fence	12 brick	fence +22
 09	Fort	18 brick	castle +20
 10	Babylon	39 brick	castle +32
-11  Archer	1 sword	attack 2
+11      Archer	1 sword	attack 2
 12	Knight	2 sword	attack 3
 13	Rider	2 sword	attack 4
 14	Platoon	4 sword	attack 6
