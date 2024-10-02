@@ -16,3 +16,5 @@ The program automatically creates/updates a scorefile in its current directory.
 
 [Escape] causes the program to save & quit the game.
 Upon starting, it checks if there is a savegame and loads it if exists.
+
+The program also creates some simple soundfiles in its current directory. Just some simple beeps for now, as i'm lazy :)
