@@ -1,5 +1,5 @@
 # YACC
-Yet Another Castlewars Clone (WIP)
+Yet Another Castlewars Clone
 
 How to play:
 
