@@ -404,11 +404,12 @@ def draw_card_on_screen(card, x, y, show_face=True, playable=True, dimmed=False)
     else:
         pygame.draw.rect(screen, CARD_BACK, (x, y - shift, CARD_WIDTH, CARD_HEIGHT))
         pygame.draw.rect(screen, BLACK, (x, y - shift, CARD_WIDTH, CARD_HEIGHT), 2)  # Border
+        """
         font = pygame.font.Font(None, 20)
         text = font.render("Card", True, WHITE)
         text_rect = text.get_rect(center=(x + CARD_WIDTH/2, y + CARD_HEIGHT/2 - shift))
         screen.blit(text, text_rect)
-
+        """
 
 
 def draw_game(center_card_x, center_card_y):
